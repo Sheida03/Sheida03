@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @Sheida03
-- 🌱 I’m currently learning a bunch of programming languages
+
+# 👋 Hi, I'm Sheida  
+
+## ⏱ Coding Stats (Powered by WakaTime)  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!---
